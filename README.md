@@ -31,10 +31,8 @@ __Why Knowledge Graph for Financial Services? Real World Use Cases__. Cambridge 
 ## Tools
 __AmpliGraph__. Open source Python library that predicts links between concepts in a knowledge graph.[[Link](http://docs.ampligraph.org/en/1.0.1/index.html)]    
 
-__PyG__. PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch.[[Link](https://github.com/rusty1s/pytorch_geometric)]    
+__PyG__. PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch. It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. [[Link](https://github.com/rusty1s/pytorch_geometric)]    
 
-
-It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. 
 
 ## Knowledge Graph Embedding
 __Variational Quantum Circuit Model for Knowledge Graph Embedding__. Advanced Quantum Technologies 2019. _Yunpu Ma, Volker Tresp, Liming Zhao, and Yuyi Wang_. [[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qute.201800078)]
