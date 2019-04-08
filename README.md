@@ -1,8 +1,10 @@
 # Knowledge Graph
 
-A collection of knowledge graph papers, codes, and reading notes.
+A collection of knowledge graph papers, codes, lectures, tutorials, business applications and reading notes.
 
 - [Knowledge Graph](#knowledge-graph)
+  - [General](#general-introduction)  
+  - [Business Solutions](#business-solutions)  
   - [Knowledge Graph Embedding](#knowledge-graph-embedding)
   - [Knowledge Graph Completion](#knowledge-graph-completion)
   - [Relation Extraction](#relation-extraction)
@@ -15,6 +17,15 @@ A collection of knowledge graph papers, codes, and reading notes.
   - [Knowledge Graph Reasoning](#knowledge-graph-reasoning)
   - [One/few-Shot and Zero-Shot](#onefew-shot-and-zero-shot)
 
+
+## General Introduction
+__CS224W Analysis of Networks__. [[Link](http://web.stanford.edu/class/cs224w/index.html)]  
+Lecture 18(2018) Knowledge Graphs and Metapaths [[Link](http://web.stanford.edu/class/cs224w/handouts/18-knowledge.pdf)]
+
+## Business Solutions
+__Building The LinkedIn Knowledge Graph__. LinkedIn Engineering BLog. [[Link](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)]    
+
+__Why Knowledge Graph for Financial Services? Real World Use Cases__. Cambridge Semantics The Smart Data Blog. [[Link](https://blog.cambridgesemantics.com/why-knowledge-graph-for-financial-services-real-world-use-cases)]
 
 ## Knowledge Graph Embedding
 __Variational Quantum Circuit Model for Knowledge Graph Embedding__. Advanced Quantum Technologies 2019. _Yunpu Ma, Volker Tresp, Liming Zhao, and Yuyi Wang_. [[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qute.201800078)]
