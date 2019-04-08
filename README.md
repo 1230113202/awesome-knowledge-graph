@@ -6,6 +6,7 @@ A collection of knowledge graph papers, codes, tools, lectures, tutorials, busin
   - [General](#general-introduction)  
   - [Business Solutions](#business-solutions)  
   - [Tools](#tools)  
+  - [Conferences](#conferences-workshops)
   - [Knowledge Graph Embedding](#knowledge-graph-embedding)
   - [Knowledge Graph Completion](#knowledge-graph-completion)
   - [Relation Extraction](#relation-extraction)
@@ -33,6 +34,10 @@ __AmpliGraph__ Open source Python library that predicts links between concepts i
 
 __PyG__ PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch. It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. [[Link](https://github.com/rusty1s/pytorch_geometric)]    
 
+## Conferences, Workshops
+__Automated Knowledge Base Construction (AKBC)__ Focusing on a variety of fields that contribute to the automated construction of knowledge bases. [[Link](http://www.akbc.ws)]  
+
+__Workshop on Representation Learning for NLP (RepL4NLP)__ Focusing on vector space models of meaning, compositionality, and the application of deep neural networks and spectral methods to NLP, as well as future research directions in linguistically motivated vector-based models in NLP. [[Link](http://www.sigrep.org/repl4nlp.html)]  
 
 ## Knowledge Graph Embedding
 __Variational Quantum Circuit Model for Knowledge Graph Embedding__ Advanced Quantum Technologies 2019. _Yunpu Ma, Volker Tresp, Liming Zhao, and Yuyi Wang_. [[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qute.201800078)]
@@ -123,6 +128,9 @@ __Compositional Vector Space Models for Knowledge Base Completion__ ACL-IJCNLP 2
 
 
 ## Relation Extraction
+__Improving Relation Extraction by Pre-trained Language Representations__ AKBC 2019. _Christoph Alt, Marc Hübner, Leonhard Hennig_. 
+[[Paper](https://openreview.net/forum?id=BJgrxbqp67)] [[Code](https://github.com/DFKI-NLP/TRE)]
+
 __Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks__ NAACL 2019. _Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen_. [[Paper](https://arxiv.org/abs/1903.01306)]  
 
 __Neural Relation Extraction via Inner-Sentence Noise Reduction and Transfer Learning__ EMNLP 2018. _Liu, Tianyi, Xinsong Zhang, Wanhao Zhou, and Weijia Jia._ [[Paper](https://arxiv.org/pdf/1808.06738.pdf)] [[Note](./notes/RE/inner-sentence.md)]  
