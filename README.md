@@ -29,7 +29,7 @@ __Building The LinkedIn Knowledge Graph__ LinkedIn Engineering BLog. [[Link](htt
 __Why Knowledge Graph for Financial Services? Real World Use Cases__ Cambridge Semantics The Smart Data Blog. [[Link](https://blog.cambridgesemantics.com/why-knowledge-graph-for-financial-services-real-world-use-cases)]
 
 ## Tools
-__AmpliGraph__ Open source Python library that predicts links between concepts in a knowledge graph.[[Link](http://docs.ampligraph.org/en/1.0.1/index.html)]    
+__AmpliGraph__ Open source Python library that predicts links between concepts in a knowledge graph. [[Link](http://docs.ampligraph.org/en/1.0.1/index.html)]    
 
 __PyG__ PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch. It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. [[Link](https://github.com/rusty1s/pytorch_geometric)]    
 
