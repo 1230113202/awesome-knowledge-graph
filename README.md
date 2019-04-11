@@ -40,9 +40,18 @@ __Automated Knowledge Base Construction (AKBC)__ Focusing on a variety of fields
 __Workshop on Representation Learning for NLP (RepL4NLP)__ Focusing on vector space models of meaning, compositionality, and the application of deep neural networks and spectral methods to NLP, as well as future research directions in linguistically motivated vector-based models in NLP. [[Link](http://www.sigrep.org/repl4nlp.html)]  
 
 __The Web Conference__  [[Link](https://www2019.thewebconf.org/workshops)]  
-Workshop On Knowledge Graph Technology And Applications: Fostering discussions on the challenges related to knowledge graphs from the perspective of both the technology and its applications. [[Link](https://datainnovation.soic.indiana.edu/www2019_kgta/index.html)]  
-The International Workshop of Deep Learning for Graphs and Structured Data Embedding: Presenting the most recent advances in embedding and representation learning for structured data as well as deep learning for graphs to unearth rich knowledge. [[Link](https://www.aminer.cn/dl4g-sde)]
+__Workshop On Knowledge Graph Technology And Applications__ [[Link](https://datainnovation.soic.indiana.edu/www2019_kgta/index.html)] 
+Fostering discussions on the challenges related to knowledge graphs from the perspective of both the technology and its applications.  
+__The International Workshop of Deep Learning for Graphs and Structured Data Embedding__ [[Link](https://www.aminer.cn/dl4g-sde)]
+Presenting the most recent advances in embedding and representation learning for structured data as well as deep learning for graphs to unearth rich knowledge. 
 
+__EMNLP__  
+__TextGraphs: Workshop on Graph-Based Natural Language Processing__  [[Link](https://sites.google.com/view/textgraphs2019)]   
+The workshops in the TextGraphs series have published and promoted the synergy between the field of Graph Theory and Natural Language Processing
+
+__NAACL 2019__  
+__Workshop on extracting structured knowledge from scientific publications (ESSP)__  [[Link](https://scientific-knowledge.github.io)]   
+Focusing on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. 
 
 ## Knowledge Graph Embedding
 __Variational Quantum Circuit Model for Knowledge Graph Embedding__ Advanced Quantum Technologies 2019. _Yunpu Ma, Volker Tresp, Liming Zhao, and Yuyi Wang_. [[Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qute.201800078)]
