@@ -40,6 +40,7 @@ __Wikidata client library for Python__ Provides easy APIs to use Wikidata for Py
 ## Knowledge Base 
 __Wikidata__ Free knowledge base, acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others [[Link](https://www.wikidata.org/wiki/Wikidata:Main_Page)]  
 
+__BabelNet__  Today's most far-reaching multilingual resource that covers hundreds of languages and, according to need, can be used as either an encyclopedic dictionary, or a semantic network, or a huge knowledge base. [[Link](https://babelnet.org/)]   
 
 ## Conference, Workshop
 __Automated Knowledge Base Construction (AKBC)__ Focusing on a variety of fields that contribute to the automated construction of knowledge bases. [[Link](http://www.akbc.ws)]  
