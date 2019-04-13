@@ -24,17 +24,24 @@ A collection of knowledge graph papers, codes, tools, lectures, tutorials, busin
 __CS224W Analysis of Networks__ [[Link](http://web.stanford.edu/class/cs224w/index.html)]  
 Lecture 18(2018) Knowledge Graphs and Metapaths [[Link](http://web.stanford.edu/class/cs224w/handouts/18-knowledge.pdf)]
 
-## Business Solutions
+## Business Case
 __Building The LinkedIn Knowledge Graph__ LinkedIn Engineering BLog. [[Link](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)]    
 
 __Why Knowledge Graph for Financial Services? Real World Use Cases__ Cambridge Semantics The Smart Data Blog. [[Link](https://blog.cambridgesemantics.com/why-knowledge-graph-for-financial-services-real-world-use-cases)]
 
-## Tools
+## Tool
 __AmpliGraph__ Open source Python library that predicts links between concepts in a knowledge graph. [[Link](http://docs.ampligraph.org/en/1.0.1/index.html)]    
 
-__PyG__ PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch. It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. [[Link](https://github.com/rusty1s/pytorch_geometric)]    
+__PyG__ PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch. It consists of various methods for deep learning on graphs and other irregular structures, also known as geometric deep learning, from a variety of published papers. [[Link](https://github.com/rusty1s/pytorch_geometric)]   
 
-## Conferences, Workshops
+__Wikidata client library for Python__ Provides easy APIs to use Wikidata for Python [[Link](https://pypi.org/project/Wikidata/)]   
+
+
+## Knowledge Base 
+__Wikidata__ Free knowledge base, acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others [[Link](https://www.wikidata.org/wiki/Wikidata:Main_Page)]  
+
+
+## Conference, Workshop
 __Automated Knowledge Base Construction (AKBC)__ Focusing on a variety of fields that contribute to the automated construction of knowledge bases. [[Link](http://www.akbc.ws)]  
 
 __ACL__  
