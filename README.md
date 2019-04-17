@@ -4,9 +4,10 @@ A collection of knowledge graph papers, codes, tools, lectures, tutorials, busin
 
 - [Knowledge Graph](#knowledge-graph)
   - [General](#general-introduction)  
-  - [Business Solutions](#business-solutions)  
-  - [Tools](#tools)  
-  - [Conferences](#conferences-workshops)
+  - [Business Solution](#business-case)  
+  - [Tool](#tool)  
+  - [Knowledge Base](#knowledge-base) 
+  - [Conference, Workshop](#conference-workshop)
   - [Knowledge Graph Embedding](#knowledge-graph-embedding)
   - [Knowledge Graph Completion](#knowledge-graph-completion)
   - [Relation Extraction](#relation-extraction)
@@ -36,6 +37,7 @@ __PyG__ PyTorch Geometric (PyG) is a geometric deep learning extension library f
 
 __Wikidata client library for Python__ Provides easy APIs to use Wikidata for Python [[Link](https://pypi.org/project/Wikidata/)]   
 
+__PyTorch-BigGraph (PBG)__ A distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges. [[Link](https://github.com/facebookresearch/PyTorch-BigGraph)]  
 
 ## Knowledge Base 
 __Wikidata__ Free knowledge base, acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others [[Link](https://www.wikidata.org/wiki/Wikidata:Main_Page)]  
