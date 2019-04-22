@@ -39,6 +39,8 @@ __Wikidata client library for Python__ Provides easy APIs to use Wikidata for Py
 
 __PyTorch-BigGraph (PBG)__ A distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges. [[Link](https://github.com/facebookresearch/PyTorch-BigGraph)]  
 
+__GraphSage__ GraphSAGE is a framework for inductive representation learning on large graphs. GraphSAGE is used to generate low-dimensional vector representations for nodes, and is especially useful for graphs that have rich node attribute information. [[Link](http://snap.stanford.edu/graphsage/)] 
+
 ## Knowledge Base 
 __Wikidata__ Free knowledge base, acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others [[Link](https://www.wikidata.org/wiki/Wikidata:Main_Page)]  
 
