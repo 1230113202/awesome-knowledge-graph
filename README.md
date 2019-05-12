@@ -22,8 +22,12 @@ A collection of knowledge graph papers, codes, tools, lectures, tutorials, busin
 
 
 ## General Introduction
-__CS224W Analysis of Networks__ [[Link](http://web.stanford.edu/class/cs224w/index.html)]  
+__Stanford CS224W Analysis of Networks__ [[Link](http://web.stanford.edu/class/cs224w/index.html)]  
 Lecture 18(2018) Knowledge Graphs and Metapaths [[Link](http://web.stanford.edu/class/cs224w/handouts/18-knowledge.pdf)]
+
+__CMU CS11-747__  
+Learning from/for Knowledge Graphs (4/9/2019) [[Link](http://www.phontron.com/class/nn4nlp2019/schedule/knowledge.html)]  
+
 
 ## Business Case
 __Building The LinkedIn Knowledge Graph__ LinkedIn Engineering BLog. [[Link](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)]    
