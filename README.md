@@ -22,7 +22,7 @@ A collection of knowledge graph papers, codes, tools, lectures, tutorials, busin
 
 
 ## General Introduction
-__Stanford CS224W Analysis of Networks__ [[Link](http://web.stanford.edu/class/cs224w/index.html)]  
+__Stanford CS224W Analysis of Networks__
 Lecture 18(2018) Knowledge Graphs and Metapaths [[Link](http://web.stanford.edu/class/cs224w/handouts/18-knowledge.pdf)]
 
 __CMU CS11-747__  
