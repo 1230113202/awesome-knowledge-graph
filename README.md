@@ -30,9 +30,14 @@ Learning from/for Knowledge Graphs (4/9/2019) [[Link](http://www.phontron.com/cl
 
 
 ## Business Case
-__Building The LinkedIn Knowledge Graph__ LinkedIn Engineering BLog. [[Link](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)]    
 
-__Why Knowledge Graph for Financial Services? Real World Use Cases__ Cambridge Semantics The Smart Data Blog. [[Link](https://blog.cambridgesemantics.com/why-knowledge-graph-for-financial-services-real-world-use-cases)]
+__Industry-scale Knowledge Graphs: Lessons and Challenges__ Five diverse technology companies show how it's done
+_Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor_ [[Link](https://queue.acm.org/detail.cfm?ref=rss&id=3332266)]  
+
+__Building The LinkedIn Knowledge Graph__ LinkedIn Engineering BLog [[Link](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)]    
+
+__Why Knowledge Graph for Financial Services? Real World Use Cases__ Cambridge Semantics The Smart Data Blog [[Link](https://blog.cambridgesemantics.com/why-knowledge-graph-for-financial-services-real-world-use-cases)]
+
 
 ## Tool
 __AmpliGraph__ Open source Python library that predicts links between concepts in a knowledge graph. [[Link](http://docs.ampligraph.org/en/1.0.1/index.html)]    
